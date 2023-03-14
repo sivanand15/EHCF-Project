@@ -13,4 +13,4 @@ jobs:
     steps:
       - uses: actions/checkout@V3
       - name: Run a python script
-      - run: python .github/workflows/example.py
+      - run: echo Hello
