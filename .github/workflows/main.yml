@@ -2,8 +2,7 @@ name: Python scripts
 
 # Controls when the workflow will run
 on:
-  push:
-    branches: [dev]
+  workflow_dispatch:
   # Allows you to run this workflow manually from the Actions tab
   
 
